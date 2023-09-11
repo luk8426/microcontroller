@@ -1,0 +1,38 @@
+Dependencies for Project 'MCPratikum', Target 'Discovery Board - RAM': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\main.c)(0x61B8A9F6)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Discovery_Board_-_RAM-IE:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IE:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F407xx -D_RTE_ -DHSE_VALUE="8000000" -DNO_FSMC -DVECT_TAB_SRAM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5F6B2636)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5F6B2636)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D43D42)
+I (E:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6B2636)
+I (_mcpr_stm32f407.h)(0x5505FA3A)
+I (fonts.h)(0x5638744E)
+I (E:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x602577D4)
+F (.\_mcpr_stm32f407_all.c)(0x5ECCFCBA)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Discovery_Board_-_RAM-IE:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IE:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F407xx -D_RTE_ -DHSE_VALUE="8000000" -DNO_FSMC -DVECT_TAB_SRAM-o .\objects\_mcpr_stm32f407_all.o --omf_browse .\objects\_mcpr_stm32f407_all.crf --depend .\objects\_mcpr_stm32f407_all.d)
+I (_mcpr_stm32f407.h)(0x5505FA3A)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5F6B2636)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5F6B2636)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D43D42)
+I (E:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6B2636)
+I (E:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x602577D4)
+F (RTE\Device\STM32F407VGTx\startup_stm32f407xx.s)(0x5F6B2636)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Discovery_Board_-_RAM-IE:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IE:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 536" --pd "_RTE_ SETA 1" --pd "STM32F407xx SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_stm32f407xx.lst --xref -o .\objects\startup_stm32f407xx.o --depend .\objects\startup_stm32f407xx.d)
+F (RTE\Device\STM32F407VGTx\system_stm32f4xx.c)(0x5F6B2636)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Discovery_Board_-_RAM-IE:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IE:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F407xx -D_RTE_ -DHSE_VALUE="8000000" -DNO_FSMC -DVECT_TAB_SRAM-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5F6B2636)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5F6B2636)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D43D42)
+I (E:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6B2636)

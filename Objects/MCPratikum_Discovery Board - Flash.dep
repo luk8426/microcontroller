@@ -1,0 +1,38 @@
+Dependencies for Project 'MCPratikum', Target 'Discovery Board - Flash': (DO NOT MODIFY !)
+CompilerVersion: 6160000::V6.16::ARMCLANG
+F (.\main.c)(0x6193D477)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/_Discovery_Board_-_Flash-IE:/Users/Lukas/AppData/Local/Arm/Pack/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IE:/Users/Lukas/AppData/Local/Arm/Pack/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F407xx -D_RTE_ -DHSE_VALUE="8000000" -DNO_FSMC-o ./objects/main.o -MD)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5F6B2636)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5F6B2636)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D43D42)
+I (E:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x60355C30)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6B2636)
+I (_mcpr_stm32f407.h)(0x5505FA3A)
+I (fonts.h)(0x5638744E)
+I (E:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x60355C34)
+F (.\_mcpr_stm32f407_all.c)(0x5ECCFCBA)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/_Discovery_Board_-_Flash-IE:/Users/Lukas/AppData/Local/Arm/Pack/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IE:/Users/Lukas/AppData/Local/Arm/Pack/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F407xx -D_RTE_ -DHSE_VALUE="8000000" -DNO_FSMC-o ./objects/_mcpr_stm32f407_all.o -MD)
+I (_mcpr_stm32f407.h)(0x5505FA3A)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5F6B2636)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5F6B2636)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D43D42)
+I (E:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x60355C30)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6B2636)
+I (E:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x60355C34)
+F (RTE\Device\STM32F407VGTx\startup_stm32f407xx.s)(0x5F6B2636)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/_Discovery_Board_-_Flash-IE:/Users/Lukas/AppData/Local/Arm/Pack/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IE:/Users/Lukas/AppData/Local/Arm/Pack/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 536" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"STM32F407xx SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f407xx.o)
+F (RTE\Device\STM32F407VGTx\system_stm32f4xx.c)(0x5F6B2636)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I./RTE/_Discovery_Board_-_Flash-IE:/Users/Lukas/AppData/Local/Arm/Pack/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IE:/Users/Lukas/AppData/Local/Arm/Pack/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F407xx -D_RTE_ -DHSE_VALUE="8000000" -DNO_FSMC-o ./objects/system_stm32f4xx.o -MD)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5F6B2636)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5F6B2636)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D43D42)
+I (E:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x60355C30)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D43D42)
+I (E:\Users\Lukas\AppData\Local\Arm\Pack\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6B2636)
